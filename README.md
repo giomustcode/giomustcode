@@ -1,23 +1,21 @@
 <h1 align="left">Hi, I'm Giovanna! 👋</h1>
 <p>
-  I'm a student and IT analyst with a unique background as a former lawyer. 😁 <br>
+  I'm 23yo. MBA student and IT analyst with a unique background as a former lawyer. :) <br><img src="https://media.tenor.com/b1Gj9raBXB4AAAAj/tkthao219-peach.gif" alt="Cat on computer" width="180" align="right" />
   I enjoy writing Python scripts, exploring IT best practices, <br>
-  and applying my knowledge to solve real-world challenges.<br>
-  Native pt-br speaker, C1 level english.
-  <img src="https://media.tenor.com/b1Gj9raBXB4AAAAj/tkthao219-peach.gif" alt="Cat on computer" width="180" align="right" />
+  And applying my knowledge to solve real-world challenges.<br>  
+  Native pt-br speaker, C1 level english. <br>
+  Brazilian, living/working in Luanda, Angola.
 </p>
 <br>
 
-### 💡 About Me
+## About Me
 
-- 🧑‍💻 Always learning and building cool things!
-- 🌐 Passionate about LGPD (GDPR)  and ITIL service management
-- ⚖️ Former lawyer, always curious and adapting to new challenges
-- 🎸 Music nerd, my hobbies include playing guitar, photography, and loving cats!
+-  Always learning and building cool things! 
+-  Passionate about LGPD (GDPR)  and ITIL service management; 
+-  Former lawyer, always curious and adapting to new challenges;
+-  Music nerd, my hobbies include playing guitar, photography, and loving cats! 🎸📷😺🥎👩‍💻🎮
 
----
-
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomustcode&layout=compact&theme=github_dark" alt="top languages" height="165" />
@@ -26,7 +24,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## Connect with Me
 
 <p>
   <a href="https://www.linkedin.com/in/giovanna-pinto/" target="_blank">
@@ -49,10 +47,13 @@
 
 ---
 
-### 🤝 Let's Talk!
+### Let's Talk!
 
 Feel free to reach out if you want to collaborate, chat about tech, music, or just say hi! <br>
 Discord: giomustdies
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tabidashi&cover_image=false&theme=default&show_offline=false&background_color=303030&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tabidashi&redirect=true)
+
 
 ---
 
