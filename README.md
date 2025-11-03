@@ -1,8 +1,8 @@
-## Hi, I'm Giovanna! 👋
+## Hi, I'm Giovanna
 <p>
-  I'm 23. <br>
+  I'm 23 years old. <br>
   IT Analyst and MBA Student with a unique background as a former lawyer. :) <br><img src="https://media.tenor.com/OItiSSsRTgoAAAAi/pusheen-cute.gif" alt="pusheen computer" width="200" align="right" />
-  Over 4 years of experience in legal support roles and 1.5 years (and counting) in IT. <br> I enjoy writing Python scripts, exploring IT best practices; <br>And applying my knowledge to solve real-world challenges.<br>  
+  Over 4 years of experience in legal support roles/internships and 2 years (and counting) in IT. <br> I enjoy exploring IT best practices, open-source tools; <br>And applying my knowledge to solve real-world problems.<br>  <br>
   Native speaker of pt-br with advanced proficiency in English.<br>
   Brazilian, currently living and working in Luanda, Angola.
 </p>
@@ -18,7 +18,7 @@
 
 #### Badges
 
-[<img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=100 />](https://www.credly.com/earner/earned/badge/501cac7b-644f-4bb3-b029-af819a4b627a) [<img src="https://idesp.com.br/wp-content/uploads/2023/03/SC900.png" width=100 />](https://learn.microsoft.com/api/credentials/share/en-us/GiovannaPinto-9240/7E03CED32467939C?sharingId=D1EB1F8A009B9FE4) [<img src="https://i.postimg.cc/4NvSVnTn/PT-IC-SEC-1770-transparent.png" width=100 />](https://certs.ibsec.com.br/?cert_hash=4efdf21cf535f155)[<img src="https://a.storyblok.com/f/79503/250x250/ddb3f17e97/group-3.png" width=100 />](https://cert.efset.org/izzD2C) 
+[<img src="https://imgur.com/3J9IARF.png" width=100 />](https://www.linkedin.com/in/giovanna-pinto/details/certifications/1762166850127/single-media-viewer/?profileId=ACoAACxd6rYBzunSH4knXMhdjJHNiuuexFQsxOw) [<img src="https://imgur.com/pboQV39.png" width=100 />](https://www.linkedin.com/in/giovanna-pinto/details/certifications/1762166792138/single-media-viewer/?profileId=ACoAACxd6rYBzunSH4knXMhdjJHNiuuexFQsxOw) [<img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width=100 />](https://www.credly.com/earner/earned/badge/501cac7b-644f-4bb3-b029-af819a4b627a) [<img src="https://idesp.com.br/wp-content/uploads/2023/03/SC900.png" width=100 />](https://learn.microsoft.com/api/credentials/share/en-us/GiovannaPinto-9240/7E03CED32467939C?sharingId=D1EB1F8A009B9FE4) [<img src="https://i.postimg.cc/4NvSVnTn/PT-IC-SEC-1770-transparent.png" width=100 />](https://certs.ibsec.com.br/?cert_hash=4efdf21cf535f155)[<img src="https://a.storyblok.com/f/79503/250x250/ddb3f17e97/group-3.png" width=100 />](https://cert.efset.org/izzD2C) 
 
 #### Connect with Me
 
