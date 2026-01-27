@@ -1,6 +1,6 @@
 ## Hi, I'm Giovanna
 <p>
-  I'm 23 years old. <br>
+  I'm 24 years old. <br>
   IT Analyst and MBA Student with a unique background as a former lawyer. :) <br><img src="https://media.tenor.com/OItiSSsRTgoAAAAi/pusheen-cute.gif" alt="pusheen computer" width="200" align="right" />
   Over 4 years of experience in legal support roles/internships and 2 years (and counting) in IT. <br> I enjoy exploring IT best practices, open-source tools; <br>And applying my knowledge to solve real-world problems.<br>  <br>
   Native speaker of pt-br with advanced proficiency in English.<br>
