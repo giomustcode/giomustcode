@@ -2,7 +2,7 @@
 <p>
   I'm 24 years old. <br>
   IT Analyst and MBA Student with a unique background as a former lawyer. :) <br><img src="https://media.tenor.com/OItiSSsRTgoAAAAi/pusheen-cute.gif" alt="pusheen computer" width="200" align="right" />
-  Over 4 years of experience in legal support roles/internships and 2 years (and counting) in IT. <br> I enjoy exploring IT best practices, open-source tools; <br>And applying my knowledge to solve real-world problems.<br>  <br>
+  I had 5 years of experience in legal roles/internships before moving to IT,<br>Where I have been working for 3 years (and counting). <br> I enjoy exploring and contributing to the open source community; <br>Aiming to always learn and apply my knowledge to solve real-world problems.<br>  <br>
   Native speaker of pt-br with advanced proficiency in English.<br>
   Brazilian, currently living and working in Luanda, Angola.
 </p>
@@ -11,10 +11,10 @@
 #### About Me
 
 - Always learning and building new knowledge and stuff;
-- Currently focusing on ITIL service management studies; 
-- Passionate about Technology, taking it also as a hobby :)
+- Currently focusing on infrastructure and operations studies (mainly ITIL and DevOps -  and sometimes AI); 
+- Passionate about Technology, so I take it also as a hobby;
 - Former lawyer, so I am always curious and adapting to new challenges;
-- Music nerd, my hobbies also include playing guitar, photography, and loving cats. 🎸📷😺🎮
+- My hobbies also include listening to some underground bands, playing bass, photography, and loving cats. 🎸📷😺🎮
 
 #### Badges
 
@@ -22,19 +22,13 @@
 
 #### Connect with Me
 
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/heregoesgio) 
 [<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/giomustdie/) 
 [<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/giomustdies) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:giovannadejp@gmail.com) 
 [<img src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white"  />](https://www.last.fm/user/gimustdie) 
-[<img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />](https://mastodon.social/@giomustdie) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/giovanna-pinto/) 
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>](https://instagram.com/heregoesgio) 
 
-#### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giomustcode&layout=compact&theme=github_dark" alt="top languages" height="165" />
-</p>
 
 #### Let's Talk!
 
